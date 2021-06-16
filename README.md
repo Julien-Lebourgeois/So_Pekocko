@@ -1,4 +1,4 @@
-# So_Pekocko
+# SoPekocko
 
 This is a project from my web development courses. This part was about API REST and security.
 
